@@ -58,3 +58,16 @@ phase: BOT
 goal: my trading system
 income: $$$
 also builds my future: full osint + ai + prediction market
+
+
+# how i want to learn 
+multiple roads to rome, if i have understood one, understand more
+# cool stuff 
+
+sentiment analysis 
+
+finding inefficiencies in systems, between buyers and sellers, that is where the backend should sit
+
+market segmenting via horizontal acraping?
+
+
