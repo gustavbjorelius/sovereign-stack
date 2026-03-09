@@ -1,3 +1,9 @@
+# insights from week 1
+have the goal of the session or day visible, so you dont lose track of where you were headed when you need to debug or so on 
+try to read docs before writing code
+timebox OR be very aware of when you are getting slow, and TAKE A SMALL BREAK TO LET YOUR BOSS-NEURONS REST
+psudocode on paper when stuck!! and rubberduck out loud like a 'crazy person' 
+maximize volume of trying things, like dont sit and screatch your head or look out into the void
 # before starting next week, do 
 put stuff into anki, else you'll lose it 
 reflext some ideally, maybe ask the ai to reflect a bit 
