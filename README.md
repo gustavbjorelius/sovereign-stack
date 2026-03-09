@@ -1,10 +1,13 @@
+# before starting next week, do 
+put stuff into anki, else you'll lose it 
+reflext some ideally, maybe ask the ai to reflect a bit 
+maybe put some stuff info the meta-system prompt
+
 # problems and solutions 
 ## 1 logic from head bottleneck 
-typing out fpatterns from muscle memory is mentally draining, and I'll likely hit a soft cieling in 2-3 weeks, where the logic feels harder than it should
+typing out patterns from muscle memory is mentally draining, and I'll likely hit a soft cieling in 2-3 weeks, where the logic feels harder than it should
 
 to fix this we borrow from the '4 stages of COMPETENCE': 1. UNconsious INcompetence => 2. consious UNcompetence => 3. consious competence => 4. UNconsious competence
-
-so to move forward on stages, DO:
 ### RULE OF 3 REPETITION
 when you encounter a pattern (like list comprehension or a `try-except` block, DELETE IT and REWRITE IT 3 times from scratch 
 ### SYNTAX DRILLS 20 MIN ED 
@@ -15,7 +18,7 @@ if a logic problem is hard, solve it ON PAPER FIRST in psudocode. Decompose prob
 the edge of the market is where data is hard to align, e.g align Kalshi price and telegram sentiment, you'll find corr others missed bc i did the janitor work 
 
 # rules
-strict no ai for core logic, i need to manually type every loop or data transformation; this is the ONLY way to build fluency. Use ai for documentation or boilterplate ONLY
+Strict no ai for core logic, I need to manually type every loop or data transformation; this is the ONLY way to build fluency. Use ai for documentation or boilterplate ONLY.
 
 stick to python, no rust 
 
@@ -29,8 +32,11 @@ goal: only fetching data from official public apis, no scraping
 4 portfolio repos, 1 per week
 0 income 
 data ingestion, storage, basic analysis 
+
 ### week 1 
+https://github.com/gustavbjorelius/polymarket-api-explorer
 API EXPLORER, focus on the atoms of python, handling variables, simple loops, basic libs like requests and pandas
+
 ### week 2
 MULTI-MARKET PIPELINE, molecules of python, functions, data cleaning using tools like pydantic, which builds on the initial data-fetching skills
 ### week 3 
