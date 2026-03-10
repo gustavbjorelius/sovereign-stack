@@ -1,3 +1,13 @@
+# 3 month sprint 
+## key insights gained 
+1. its likely ill get startup support from the employment agency, and if i have funktionsnedsattning (from burnout) i can get 10 months runway instead of 6. 
+2. its likely ill get to build the skills that will move me toward the futures 
+3. python data automation for swedish SMEs
+4. ... 
+
+much of this will luckily likely change 
+
+
 # insights from week 1
 have the goal of the session or day visible, so you dont lose track of where you were headed when you need to debug or so on 
 try to read docs before writing code
