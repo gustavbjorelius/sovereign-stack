@@ -1,3 +1,12 @@
+
+# forbes 400 (2021 forbes analysis) inspiration of initial conditions
+
+set yourself up similar to making foodboxes before bed and not in the morning
+
+education, normalized across n=400 cohort: 18.2% business(admin/management), 16.2% economics, 15.4% engineering, 6.2% politics/gov, 5% math, 4.8% CS. Everytning else: >5% (law, finance, law, history)
+
+
+
 # 3 month sprint 
 ## key insights gained 
 1. its likely ill get startup support from the employment agency, and if i have funktionsnedsattning (from burnout) i can get 10 months runway instead of 6. 
