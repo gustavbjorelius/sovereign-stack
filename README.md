@@ -1,3 +1,18 @@
+what well do 
+
+3 month until first sme client contract, it should be a week long max, 4-6000 sek project with >30sec phone recording and recommendation 
+
+do the python book one chapter a day 
+
+once that book is finished, do more, or do projects that will passively help you and put them on gh 
+
+so do that 
+
+come up with a few cool things to put on gh that you can use to prove your value to small businisses 
+
+set up a sole trader and learn how to do do accounting / finance 
+
+
 
 # forbes 400 (2021 forbes analysis) inspiration of initial conditions
 
