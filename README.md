@@ -1,3 +1,45 @@
+# 3/14
+
+TRAIN YOURSELF TO BE MORE LOUD!!!
+make a blogpost a week from the content you consume
+super foundermode, super scrappy
+pipeline is shortform x.com, like notes from consuming content (daily)
+expand on x.com notes on linkedin (weekly)
+
+MAYBE GET INTO STANFORD 
+like atilla 
+he also did military for 9 y before it 
+what if stanford selects for hardcore and not grades 
+what if this is a universal? 
+
+MAYBE DO FULLSTACK
+just be comfortable doing both, like dont ignore frontend, even if its just a flask server like ssi.inc
+but super foundermode
+like you need to be able to ship fast, iterate fast
+
+SET UP INITIAL CONDITIONS 
+k4?
+religion?
+university?
+enmanskonsult?
+slaughterhouse?
+welding?
+sthlm networking? 
+AF starta eget? 
+
+APPLY TO A MULTITUDE OF OPENINGS YOU COULD REASONABLY SUCCEED IN W/O YEARS OF PREP
+or go all in on one opening
+or think about the exponential domino effect, one 
+how do i create something that carries me forward? 
+becomming great
+what is the resource that would do that? becoming great like elon 
+what sets him apart is that doesnt need to outsource, hes mind understands the entire system 
+what sets jensen apart? he has direct oversight over what? 
+
+
+
+# 3/13 
+
 what well do 
 
 3 month until first sme client contract, it should be a week long max, 4-6000 sek project with >30sec phone recording and recommendation 
